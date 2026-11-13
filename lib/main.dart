@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: .center,
           children: [
-            const Text('You internet save have 85 pushed the button this many times new:'),
+            const Text('internet test:'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
